@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<language>
+    <country>Français</country>
+    <lang_code>fr</lang_code>
+    <fields>
+        <convert>Convertir</convert>
+        <testSRT>Tester SRT</testSRT>
+        <createTextFile>Créer un fichier texte</createTextFile>
+        <createJson>Créer Json</createJson>
+        <setup>Configurer</setup>
+        <orEnterUrl>Ou entrez l'URL YouTube/Vimeo :</orEnterUrl>
+        <browseVideo>Parcourir la vidéo</browseVideo>
+        <startProcessing>Commencer le traitement</startProcessing>
+        <downloadAudioOnly>Télécharger uniquement l'audio</downloadAudioOnly>
+        <orEnterUrlVideo>Ou entrez l'URL YouTube/Vimeo :</orEnterUrlVideo>
+        <browseSRTFile>Parcourir le fichier SRT</browseSRTFile>
+        <loadAndPlayVideo>Charger et lire la vidéo</loadAndPlayVideo>
+        <startCreateTextFile>Commencer à créer un fichier texte</startCreateTextFile>
+        <startCreateJson>Commencer à créer Json</startCreateJson>
+        <enterChapterKeywords>Entrez les mots-clés des chapitres (séparés par des virgules) :</enterChapterKeywords>
+        <addDirectory>Ajouter un répertoire</addDirectory>
+        <removeDirectory>Supprimer le répertoire</removeDirectory>
+        <addIgnoreDirectory>Ajouter un répertoire ignoré</addIgnoreDirectory>
+        <removeIgnoreDirectory>Supprimer le répertoire ignoré</removeIgnoreDirectory>
+        <setTextOutput>Définir la sortie texte</setTextOutput>
+        <setJsonOutput>Définir la sortie JSON</setJsonOutput>
+        <processSubfolders>Traiter les sous-dossiers</processSubfolders>
+        <saveConfiguration>Sauvegarder la configuration</saveConfiguration>
+        <loadConfiguration>Charger la configuration</loadConfiguration>
+        <limitSearch>Limiter la recherche</limitSearch>
+        <noLimit>Aucune Limite</noLimit>
+        <lastProducedPerType>Dernier produit par type</lastProducedPerType>
+        <lastProducedInFolder>Dernier produit dans le dossier</lastProducedInFolder>
+        <lastProducedSimilarTitle>Dernier produit avec un titre similaire</lastProducedSimilarTitle>
+        <languageSelection>Sélectionner la langue</languageSelection>
+        <downloadError>Erreur de téléchargement</downloadError>
+        <downloadSuccess>Téléchargement réussi</downloadSuccess>
+        <audioExtractionError>Erreur d'extraction audio</audioExtractionError>
+        <transcriptionError>Erreur de transcription</transcriptionError>
+        <srtGenerationError>Erreur de génération SRT</srtGenerationError>
+        <success>Fichier SRT généré avec succès à</success>
+        <processCompleted>Processus terminé pour les répertoires</processCompleted>
+		<addKeyword>Add Keyword</addKeyword>
+	<removeKeyword>Remove Keyword</removeKeyword></fields>
+</language>

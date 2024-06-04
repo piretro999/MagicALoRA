@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<language>
+    <country>Deutsch</country>
+    <lang_code>de</lang_code>
+    <fields>
+        <convert>Konvertieren</convert>
+        <testSRT>Testen Sie SRT</testSRT>
+        <createTextFile>Textdatei erstellen</createTextFile>
+        <createJson>Json erstellen</createJson>
+        <setup>Einrichten</setup>
+        <orEnterUrl>Oder geben Sie die YouTube/Vimeo-URL ein:</orEnterUrl>
+        <browseVideo>Video durchsuchen</browseVideo>
+        <startProcessing>Verarbeitung starten</startProcessing>
+        <downloadAudioOnly>Nur Audio herunterladen</downloadAudioOnly>
+        <orEnterUrlVideo>Oder geben Sie die YouTube/Vimeo-URL ein:</orEnterUrlVideo>
+        <browseSRTFile>SRT-Datei durchsuchen</browseSRTFile>
+        <loadAndPlayVideo>Video laden und abspielen</loadAndPlayVideo>
+        <startCreateTextFile>Textdatei erstellen starten</startCreateTextFile>
+        <startCreateJson>Json erstellen starten</startCreateJson>
+        <enterChapterKeywords>Kapitel-Stichwörter eingeben (durch Kommas getrennt):</enterChapterKeywords>
+        <addDirectory>Verzeichnis hinzufügen</addDirectory>
+        <removeDirectory>Verzeichnis entfernen</removeDirectory>
+        <addIgnoreDirectory>Zu ignorierendes Verzeichnis hinzufügen</addIgnoreDirectory>
+        <removeIgnoreDirectory>Zu ignorierendes Verzeichnis entfernen</removeIgnoreDirectory>
+        <setTextOutput>Textausgabe festlegen</setTextOutput>
+        <setJsonOutput>JSON-Ausgabe festlegen</setJsonOutput>
+        <processSubfolders>Unterordner verarbeiten</processSubfolders>
+        <saveConfiguration>Konfiguration speichern</saveConfiguration>
+        <loadConfiguration>Konfiguration laden</loadConfiguration>
+        <limitSearch>Suche einschränken</limitSearch>
+        <noLimit>Keine Begrenzung</noLimit>
+        <lastProducedPerType>Zuletzt pro Typ produziert</lastProducedPerType>
+        <lastProducedInFolder>Zuletzt im Ordner produziert</lastProducedInFolder>
+        <lastProducedSimilarTitle>Zuletzt mit ähnlichem Titel produziert</lastProducedSimilarTitle>
+        <languageSelection>Sprache auswählen</languageSelection>
+        <downloadError>Download-Fehler</downloadError>
+        <downloadSuccess>Download erfolgreich</downloadSuccess>
+        <audioExtractionError>Audio-Extraktionsfehler</audioExtractionError>
+        <transcriptionError>Transkriptionsfehler</transcriptionError>
+        <srtGenerationError>SRT-Generierungsfehler</srtGenerationError>
+        <success>SRT-Datei erfolgreich erstellt unter</success>
+        <processCompleted>Prozess für Verzeichnisse abgeschlossen</processCompleted>
+		<addKeyword>Add Keyword</addKeyword>
+	<removeKeyword>Remove Keyword</removeKeyword></fields>
+</language>

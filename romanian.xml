@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<language>
+    <country>Română</country>
+    <lang_code>ro</lang_code>
+    <fields>
+        <convert>Convertiți</convert>
+        <testSRT>Testați SRT</testSRT>
+        <createTextFile>Creați fișier text</createTextFile>
+        <createJson>Creați Json</createJson>
+        <setup>Configurați</setup>
+        <orEnterUrl>Sau introduceți URL YouTube/Vimeo:</orEnterUrl>
+        <browseVideo>Răsfoiți video</browseVideo>
+        <startProcessing>Începeți procesarea</startProcessing>
+        <downloadAudioOnly>Descărcați doar audio</downloadAudioOnly>
+        <orEnterUrlVideo>Sau introduceți URL YouTube/Vimeo:</orEnterUrlVideo>
+        <browseSRTFile>Răsfoiți fișierul SRT</browseSRTFile>
+        <loadAndPlayVideo>Încărcați și redați video</loadAndPlayVideo>
+        <startCreateTextFile>Începeți crearea fișierului text</startCreateTextFile>
+        <startCreateJson>Începeți crearea Json</startCreateJson>
+        <enterChapterKeywords>Introduceți cuvintele cheie ale capitolelor (separate prin virgule):</enterChapterKeywords>
+        <addDirectory>Adăugați director</addDirectory>
+        <removeDirectory>Eliminați directorul</removeDirectory>
+        <addIgnoreDirectory>Adăugați director de ignorat</addIgnoreDirectory>
+        <removeIgnoreDirectory>Eliminați directorul de ignorat</removeIgnoreDirectory>
+        <setTextOutput>Setați ieșirea textului</setTextOutput>
+        <setJsonOutput>Setați ieșirea JSON</setJsonOutput>
+        <processSubfolders>Procesați subdirectoare</processSubfolders>
+        <saveConfiguration>Salvați configurația</saveConfiguration>
+        <loadConfiguration>Încărcați configurația</loadConfiguration>
+        <limitSearch>Limitați căutarea</limitSearch>
+        <noLimit>Fără limită</noLimit>
+        <lastProducedPerType>Ultimul produs pe tip</lastProducedPerType>
+        <lastProducedInFolder>Ultimul produs în director</lastProducedInFolder>
+        <lastProducedSimilarTitle>Ultimul produs cu titlu similar</lastProducedSimilarTitle>
+        <languageSelection>Selectați limba</languageSelection>
+        <downloadError>Eroare de descărcare</downloadError>
+        <downloadSuccess>Descărcare reușită</downloadSuccess>
+        <audioExtractionError>Eroare de extracție audio</audioExtractionError>
+        <transcriptionError>Eroare de transcriere</transcriptionError>
+        <srtGenerationError>Eroare de generare SRT</srtGenerationError>
+        <success>Fișier SRT generat cu succes la</success>
+        <processCompleted>Procesul finalizat pentru directoare</processCompleted>
+		<addKeyword>Add Keyword</addKeyword>
+	<removeKeyword>Remove Keyword</removeKeyword></fields>
+</language>

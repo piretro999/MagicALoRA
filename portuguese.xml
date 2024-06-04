@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<language>
+    <country>Português</country>
+    <lang_code>pt</lang_code>
+    <fields>
+        <convert>Converter</convert>
+        <testSRT>Testar SRT</testSRT>
+        <createTextFile>Criar arquivo de texto</createTextFile>
+        <createJson>Criar Json</createJson>
+        <setup>Configurar</setup>
+        <orEnterUrl>Ou insira a URL do YouTube/Vimeo:</orEnterUrl>
+        <browseVideo>Procurar vídeo</browseVideo>
+        <startProcessing>Iniciar processamento</startProcessing>
+        <downloadAudioOnly>Baixar apenas áudio</downloadAudioOnly>
+        <orEnterUrlVideo>Ou insira a URL do YouTube/Vimeo:</orEnterUrlVideo>
+        <browseSRTFile>Procurar arquivo SRT</browseSRTFile>
+        <loadAndPlayVideo>Carregar e reproduzir vídeo</loadAndPlayVideo>
+        <startCreateTextFile>Iniciar criação de arquivo de texto</startCreateTextFile>
+        <startCreateJson>Iniciar criação de Json</startCreateJson>
+        <enterChapterKeywords>Insira palavras-chave do capítulo (separadas por vírgulas):</enterChapterKeywords>
+        <addDirectory>Adicionar diretório</addDirectory>
+        <removeDirectory>Remover diretório</removeDirectory>
+        <addIgnoreDirectory>Adicionar diretório ignorado</addIgnoreDirectory>
+        <removeIgnoreDirectory>Remover diretório ignorado</removeIgnoreDirectory>
+        <setTextOutput>Definir saída de texto</setTextOutput>
+        <setJsonOutput>Definir saída de JSON</setJsonOutput>
+        <processSubfolders>Processar subpastas</processSubfolders>
+        <saveConfiguration>Salvar configuração</saveConfiguration>
+        <loadConfiguration>Carregar configuração</loadConfiguration>
+        <limitSearch>Limitar pesquisa</limitSearch>
+        <noLimit>Sem limite</noLimit>
+        <lastProducedPerType>Último produzido por tipo</lastProducedPerType>
+        <lastProducedInFolder>Último produzido na pasta</lastProducedInFolder>
+        <lastProducedSimilarTitle>Último produzido com título similar</lastProducedSimilarTitle>
+        <languageSelection>Selecionar idioma</languageSelection>
+        <downloadError>Erro de download</downloadError>
+        <downloadSuccess>Download bem-sucedido</downloadSuccess>
+        <audioExtractionError>Erro de extração de áudio</audioExtractionError>
+        <transcriptionError>Erro de transcrição</transcriptionError>
+        <srtGenerationError>Erro de geração de SRT</srtGenerationError>
+        <success>Arquivo SRT gerado com sucesso em</success>
+        <processCompleted>Processo concluído para diretórios</processCompleted>
+		<addKeyword>Add Keyword</addKeyword>
+	<removeKeyword>Remove Keyword</removeKeyword></fields>
+</language>

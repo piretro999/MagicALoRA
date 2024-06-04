@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<language>
+	<country>Italiano</country>
+	<lang_code>it</lang_code>
+	<fields>
+		<convert>Converti</convert>
+		<testSRT>Testa SRT</testSRT>
+		<createTextFile>Crea file di testo</createTextFile>
+		<createJson>Crea Json</createJson>
+		<setup>Impostazioni</setup>
+		<orEnterUrl>O inserisci URL YouTube/Vimeo:</orEnterUrl>
+		<browseVideo>Scegli Video</browseVideo>
+		<startProcessing>Inizia Elaborazione</startProcessing>
+		<downloadAudioOnly>Scarica solo audio</downloadAudioOnly>
+		<orEnterUrlVideo>O inserisci URL YouTube/Vimeo:</orEnterUrlVideo>
+		<browseSRTFile>Scegli file SRT</browseSRTFile>
+		<loadAndPlayVideo>Carica e Riproduci Video</loadAndPlayVideo>
+		<startCreateTextFile>Avvia Creazione file di testo</startCreateTextFile>
+		<startCreateJson>Avvia Creazione Json</startCreateJson>
+		<enterChapterKeywords>Inserisci le parole chiave dei capitoli (separate da virgole):</enterChapterKeywords>
+		<addDirectory>Aggiungi Directory</addDirectory>
+		<removeDirectory>Rimuovi Directory</removeDirectory>
+		<addIgnoreDirectory>Aggiungi Directory da Ignorare</addIgnoreDirectory>
+		<removeIgnoreDirectory>Rimuovi Directory da Ignorare</removeIgnoreDirectory>
+		<setTextOutput>Imposta Percorso Testo</setTextOutput>
+		<setJsonOutput>Imposta Percorso JSON</setJsonOutput>
+		<processSubfolders>Elabora Sottocartelle</processSubfolders>
+		<saveConfiguration>Salva Configurazione</saveConfiguration>
+		<loadConfiguration>Carica Configurazione</loadConfiguration>
+		<limitSearch>Limita Ricerca</limitSearch>
+		<noLimit>Nessun Limite</noLimit>
+		<lastProducedPerType>Ultimo Prodotto per Tipo</lastProducedPerType>
+		<lastProducedInFolder>Ultimo Prodotto nella Cartella</lastProducedInFolder>
+		<lastProducedSimilarTitle>Ultimo Prodotto con Titolo Simile</lastProducedSimilarTitle>
+		<languageSelection>Seleziona Lingua</languageSelection>
+		<downloadError>Errore di Download</downloadError>
+		<downloadSuccess>Download completato con successo</downloadSuccess>
+		<audioExtractionError>Errore di estrazione audio</audioExtractionError>
+		<transcriptionError>Errore di trascrizione</transcriptionError>
+		<srtGenerationError>Errore di generazione SRT</srtGenerationError>
+		<success>File SRT generato con successo in</success>
+		<processCompleted>Processo completato per le directory</processCompleted>
+		<addKeyword>Aggiungi Keyword</addKeyword>
+		<removeKeyword>Rimuovi Keyword</removeKeyword>
+	</fields>
+</language>

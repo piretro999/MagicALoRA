@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<language>
+	<country>Kiswahili</country>
+	<lang_code>sw</lang_code>
+	<fields>
+		<convert>Geuza</convert>
+		<testSRT>Jaribu SRT</testSRT>
+		<createTextFile>Tengeneza faili la maandishi</createTextFile>
+		<createJson>Tengeneza Json</createJson>
+		<setup>Sanidi</setup>
+		<orEnterUrl>Au ingiza URL ya YouTube/Vimeo:</orEnterUrl>
+		<browseVideo>Vinjari Video</browseVideo>
+		<startProcessing>Anza Kusindika</startProcessing>
+		<downloadAudioOnly>Pakua Sauti Pekee</downloadAudioOnly>
+		<orEnterUrlVideo>Au ingiza URL ya YouTube/Vimeo:</orEnterUrlVideo>
+		<browseSRTFile>Vinjari faili la SRT</browseSRTFile>
+		<loadAndPlayVideo>Pakia na Cheza Video</loadAndPlayVideo>
+		<startCreateTextFile>Anza kutengeneza faili la maandishi</startCreateTextFile>
+		<startCreateJson>Anza kutengeneza Json</startCreateJson>
+		<enterChapterKeywords>Ingiza maneno muhimu ya sura (yanaopambanuliwa na koma):</enterChapterKeywords>
+		<addDirectory>Ongeza Saraka</addDirectory>
+		<removeDirectory>Ondoa Saraka</removeDirectory>
+		<addIgnoreDirectory>Ongeza Saraka ya Kupuuza</addIgnoreDirectory>
+		<removeIgnoreDirectory>Ondoa Saraka ya Kupuuza</removeIgnoreDirectory>
+		<setTextOutput>Weka Pato la Maandishi</setTextOutput>
+		<setJsonOutput>Weka Pato la JSON</setJsonOutput>
+		<processSubfolders>Process Subfolders</processSubfolders>
+		<saveConfiguration>Hifadhi Usanidi</saveConfiguration>
+		<loadConfiguration>Pakia Usanidi</loadConfiguration>
+		<limitSearch>Punguza Utafutaji</limitSearch>
+		<noLimit>Hakuna Kizuizi</noLimit>
+		<lastProducedPerType>Ya Mwisho Kutolewa kwa Aina</lastProducedPerType>
+		<lastProducedInFolder>Ya Mwisho Kutolewa Kwenye Folda</lastProducedInFolder>
+		<lastProducedSimilarTitle>Ya Mwisho Kutolewa na Kichwa Sawa</lastProducedSimilarTitle>
+		<languageSelection>Chagua Lugha</languageSelection>
+		<downloadError>Hitilafu ya Kupakua</downloadError>
+		<downloadSuccess>Ufanisi wa Upakuaji</downloadSuccess>
+		<audioExtractionError>Hitilafu ya Utoaji Sauti</audioExtractionError>
+		<transcriptionError>Hitilafu ya Unakilishi</transcriptionError>
+		<srtGenerationError>Hitilafu ya Uundaji wa SRT</srtGenerationError>
+		<success>Faili la SRT limetengenezwa kwa ufanisi</success>
+		<processCompleted>Mchakato umekamilika kwa saraka</processCompleted>
+		<addKeyword>Ongeza maneno muhimu</addKeyword>
+		<removeKeyword>Ondoa maneno muhimu</removeKeyword>
+	</fields>
+</language>

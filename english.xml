@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<language>
+    <country>English</country>
+    <lang_code>en</lang_code>
+    <fields>
+        <convert>Convert</convert>
+        <testSRT>Test SRT</testSRT>
+        <createTextFile>Create text file</createTextFile>
+        <createJson>Create Json</createJson>
+        <setup>Setup</setup>
+        <orEnterUrl>Or enter YouTube/Vimeo URL:</orEnterUrl>
+        <browseVideo>Browse Video</browseVideo>
+        <startProcessing>Start Processing</startProcessing>
+        <downloadAudioOnly>Download Audio Only</downloadAudioOnly>
+        <orEnterUrlVideo>Or enter YouTube/Vimeo URL:</orEnterUrlVideo>
+        <browseSRTFile>Browse SRT file</browseSRTFile>
+        <loadAndPlayVideo>Load and Play Video</loadAndPlayVideo>
+        <startCreateTextFile>Start Create text file</startCreateTextFile>
+        <startCreateJson>Start Create Json</startCreateJson>
+        <enterChapterKeywords>Enter chapter keywords (comma-separated):</enterChapterKeywords>
+        <addDirectory>Add Directory</addDirectory>
+        <removeDirectory>Remove Directory</removeDirectory>
+        <addIgnoreDirectory>Add Ignore Directory</addIgnoreDirectory>
+        <removeIgnoreDirectory>Remove Ignore Directory</removeIgnoreDirectory>
+        <setTextOutput>Set Text Output</setTextOutput>
+        <setJsonOutput>Set JSON Output</setJsonOutput>
+        <processSubfolders>Process Subfolders</processSubfolders>
+        <saveConfiguration>Save Configuration</saveConfiguration>
+        <loadConfiguration>Load Configuration</loadConfiguration>
+        <limitSearch>Limit Search</limitSearch>
+        <noLimit>No Limit</noLimit>
+        <lastProducedPerType>Last Produced per Type</lastProducedPerType>
+        <lastProducedInFolder>Last Produced in Folder</lastProducedInFolder>
+        <lastProducedSimilarTitle>Last Produced with Similar Title</lastProducedSimilarTitle>
+        <languageSelection>Select Language</languageSelection>
+        <downloadError>Download Error</downloadError>
+        <downloadSuccess>Download Success</downloadSuccess>
+        <audioExtractionError>Audio Extraction Error</audioExtractionError>
+        <transcriptionError>Transcription Error</transcriptionError>
+        <srtGenerationError>SRT Generation Error</srtGenerationError>
+        <success>SRT file successfully generated at</success>
+        <processCompleted>Process completed for directories</processCompleted>
+		<addKeyword>Add Keyword</addKeyword>
+	<removeKeyword>Remove Keyword</removeKeyword></fields>
+</language>

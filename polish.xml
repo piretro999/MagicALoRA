@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<language>
+    <country>Polski</country>
+    <lang_code>pl</lang_code>
+    <fields>
+        <convert>Konwertuj</convert>
+        <testSRT>Testuj SRT</testSRT>
+        <createTextFile>Utwórz plik tekstowy</createTextFile>
+        <createJson>Utwórz Json</createJson>
+        <setup>Konfiguracja</setup>
+        <orEnterUrl>Lub wprowadź URL YouTube/Vimeo:</orEnterUrl>
+        <browseVideo>Przeglądaj wideo</browseVideo>
+        <startProcessing>Rozpocznij przetwarzanie</startProcessing>
+        <downloadAudioOnly>Pobierz tylko audio</downloadAudioOnly>
+        <orEnterUrlVideo>Lub wprowadź URL YouTube/Vimeo:</orEnterUrlVideo>
+        <browseSRTFile>Przeglądaj plik SRT</browseSRTFile>
+        <loadAndPlayVideo>Załaduj i odtwórz wideo</loadAndPlayVideo>
+        <startCreateTextFile>Rozpocznij tworzenie pliku tekstowego</startCreateTextFile>
+        <startCreateJson>Rozpocznij tworzenie Json</startCreateJson>
+        <enterChapterKeywords>Wprowadź słowa kluczowe rozdziału (oddzielone przecinkami):</enterChapterKeywords>
+        <addDirectory>Dodaj katalog</addDirectory>
+        <removeDirectory>Usuń katalog</removeDirectory>
+        <addIgnoreDirectory>Dodaj katalog do ignorowania</addIgnoreDirectory>
+        <removeIgnoreDirectory>Usuń katalog do ignorowania</removeIgnoreDirectory>
+        <setTextOutput>Ustaw wyjście tekstu</setTextOutput>
+        <setJsonOutput>Ustaw wyjście JSON</setJsonOutput>
+        <processSubfolders>Przetwarzaj podfoldery</processSubfolders>
+        <saveConfiguration>Zapisz konfigurację</saveConfiguration>
+        <loadConfiguration>Wczytaj konfigurację</loadConfiguration>
+        <limitSearch>Ogranicz wyszukiwanie</limitSearch>
+        <noLimit>Bez ograniczeń</noLimit>
+        <lastProducedPerType>Ostatnio wyprodukowane na typ</lastProducedPerType>
+        <lastProducedInFolder>Ostatnio wyprodukowane w folderze</lastProducedInFolder>
+        <lastProducedSimilarTitle>Ostatnio wyprodukowane z podobnym tytułem</lastProducedSimilarTitle>
+        <languageSelection>Wybór języka</languageSelection>
+        <downloadError>Błąd pobierania</downloadError>
+        <downloadSuccess>Pobieranie zakończone sukcesem</downloadSuccess>
+        <audioExtractionError>Błąd ekstrakcji dźwięku</audioExtractionError>
+        <transcriptionError>Błąd transkrypcji</transcriptionError>
+        <srtGenerationError>Błąd generowania SRT</srtGenerationError>
+        <success>Plik SRT pomyślnie wygenerowany w</success>
+        <processCompleted>Proces zakończony dla katalogów</processCompleted>
+		<addKeyword>Add Keyword</addKeyword>
+		<removeKeyword>Remove Keyword</removeKeyword>
+	</fields>
+</language>
