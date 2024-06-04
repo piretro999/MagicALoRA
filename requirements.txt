@@ -1,0 +1,15 @@
+beautifulsoup4
+ebooklib
+fitz
+moviepy
+pandas
+pillow
+pptx
+pydub
+pytube
+python-docx
+requests
+speechrecognition
+tk
+tkinterdnd2
+vlc
